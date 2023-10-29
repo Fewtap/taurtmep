@@ -1,0 +1,116 @@
+.gridcontainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+
+.zoneContainer{
+  grid-template-columns: 1fr 1fr 1fr;
+  display: grid;
+  column-gap: 10px;
+  row-gap: 10px;
+  max-height: 50vh;
+  overflow: scroll;
+  padding: 20px;
+  overflow-x: hidden;
+}
+
+.controlsdiv{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: baseline;
+  background-color: #5a5a5a;
+  padding: 20px;
+  border-radius: 20px;
+  max-width: 90vw;
+  border: 1px solid #383838;
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+
+.hidden{
+  display: none;
+}
+.temperature{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #f5f5f5;
+}
+
+button{
+  
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #808080;
+  cursor: pointer;
+  transition: 0.1s ease-in-out;
+ 
+}
+
+div{
+  margin: 10px;
+  
+}
+
+button:hover{
+  transition: 0.1s ease-in-out;
+  background-color: #e0e0e0;
+  transform: scale(1.1);
+  color: #383838;
+}
+
+textarea{
+  margin-inline: auto;
+  background-color: #808080;
+  max-height: 200px;
+  color: antiquewhite;
+  text-decoration-color: antiquewhite;
+  width: 10vw !important;
+  /*disable resize*/
+  resize: none;
+  border-radius: 10px;
+}
+
+textarea::placeholder{
+  color: antiquewhite;
+}
+
+#roominputdiv{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #808080;
+  max-width: 90vw;
+  margin-inline: auto;
+}
+#output{
+  width: 50%;
+  height: 30v
+}
+label{
+  margin: 10px;
+  color: antiquewhite;
+}
+
+
+
+
+
+
+
+
+
+
+

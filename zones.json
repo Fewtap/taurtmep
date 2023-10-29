@@ -1,0 +1,731 @@
+[
+  {
+    "zone_id": "1",
+    "name": "Varmekabel bad Rom 101",
+    "week_profile_id": "0",
+    "temp_comfort_c": "11",
+    "temp_eco_c": "10",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "2",
+    "name": "Varmeovn Rom 101",
+    "week_profile_id": "0",
+    "temp_comfort_c": "20",
+    "temp_eco_c": "17",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "3",
+    "name": "Varmekabel bad Rom 102",
+    "week_profile_id": "0",
+    "temp_comfort_c": "15",
+    "temp_eco_c": "15",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "4",
+    "name": "Varmeovn Rom 102",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "5",
+    "name": "Varmekabel bad Rom 103",
+    "week_profile_id": "0",
+    "temp_comfort_c": "10",
+    "temp_eco_c": "10",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "6",
+    "name": "Varmeovn Rom 103",
+    "week_profile_id": "0",
+    "temp_comfort_c": "16",
+    "temp_eco_c": "16",
+    "override_allowed": "0",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "7",
+    "name": "Varmekabel bad Rom 104",
+    "week_profile_id": "0",
+    "temp_comfort_c": "23",
+    "temp_eco_c": "23",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "8",
+    "name": "Varmeovn Rom 104",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "9",
+    "name": "Varmekabel bad Rom 105",
+    "week_profile_id": "0",
+    "temp_comfort_c": "28",
+    "temp_eco_c": "15",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "10",
+    "name": "Varmeovn Rom 105",
+    "week_profile_id": "0",
+    "temp_comfort_c": "7",
+    "temp_eco_c": "7",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "11",
+    "name": "Varmekabel bad Rom 106",
+    "week_profile_id": "0",
+    "temp_comfort_c": "15",
+    "temp_eco_c": "15",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "12",
+    "name": "Varmeovn Rom 106",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "15",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "13",
+    "name": "Varmekabel bad Rom 107",
+    "week_profile_id": "0",
+    "temp_comfort_c": "15",
+    "temp_eco_c": "15",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "14",
+    "name": "Varmeovn Rom 107",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "16",
+    "name": "Varmeovn Rom 108",
+    "week_profile_id": "0",
+    "temp_comfort_c": "18",
+    "temp_eco_c": "10",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "17",
+    "name": "Varmekabel bad Rom 109",
+    "week_profile_id": "0",
+    "temp_comfort_c": "24",
+    "temp_eco_c": "25",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "18",
+    "name": "Varmeovn Rom 109",
+    "week_profile_id": "0",
+    "temp_comfort_c": "20",
+    "temp_eco_c": "10",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "19",
+    "name": "Varmekabel bad Rom 110",
+    "week_profile_id": "0",
+    "temp_comfort_c": "22",
+    "temp_eco_c": "17",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "20",
+    "name": "Varmeovn Rom 110",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "21",
+    "name": "Varmekabel bad Rom 111",
+    "week_profile_id": "0",
+    "temp_comfort_c": "18",
+    "temp_eco_c": "17",
+    "override_allowed": "0",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "22",
+    "name": "Varmeovn Rom 111",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "23",
+    "name": "Varmekabel bad Rom 112",
+    "week_profile_id": "0",
+    "temp_comfort_c": "30",
+    "temp_eco_c": "14",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "24",
+    "name": "Varmeovn Rom 112",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "25",
+    "name": "Varmekabel bad Rom 113",
+    "week_profile_id": "0",
+    "temp_comfort_c": "25",
+    "temp_eco_c": "15",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "26",
+    "name": "Varmeovn Rom 113",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "12",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "27",
+    "name": "Varmekabel bad Rom 114",
+    "week_profile_id": "0",
+    "temp_comfort_c": "18",
+    "temp_eco_c": "8",
+    "override_allowed": "0",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "28",
+    "name": "Varmeovn Rom 114",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "29",
+    "name": "Varmekabel bad Rom 115",
+    "week_profile_id": "0",
+    "temp_comfort_c": "39",
+    "temp_eco_c": "8",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "30",
+    "name": "Varmeovn Rom 115",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "31",
+    "name": "Varmekabel bad Rom 116",
+    "week_profile_id": "0",
+    "temp_comfort_c": "15",
+    "temp_eco_c": "15",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "32",
+    "name": "Varmeovn Rom 116",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "33",
+    "name": "Varmekabel bad Rom 201",
+    "week_profile_id": "0",
+    "temp_comfort_c": "10",
+    "temp_eco_c": "10",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "34",
+    "name": "Varmeovn Rom 201",
+    "week_profile_id": "0",
+    "temp_comfort_c": "10",
+    "temp_eco_c": "10",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "35",
+    "name": "Varmekabel bad Rom 203",
+    "week_profile_id": "0",
+    "temp_comfort_c": "10",
+    "temp_eco_c": "14",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "36",
+    "name": "Varmeovn Rom 203",
+    "week_profile_id": "0",
+    "temp_comfort_c": "13",
+    "temp_eco_c": "13",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "37",
+    "name": "Varmekabel bad Rom 204",
+    "week_profile_id": "0",
+    "temp_comfort_c": "26",
+    "temp_eco_c": "7",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "38",
+    "name": "Varmeovn Rom 204",
+    "week_profile_id": "0",
+    "temp_comfort_c": "10",
+    "temp_eco_c": "7",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "39",
+    "name": "Varmekabel bad Rom 205",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "17",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "40",
+    "name": "Varmeovn Rom 205",
+    "week_profile_id": "0",
+    "temp_comfort_c": "18",
+    "temp_eco_c": "9",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "41",
+    "name": "Varmekabel bad Rom 206",
+    "week_profile_id": "0",
+    "temp_comfort_c": "22",
+    "temp_eco_c": "16",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "42",
+    "name": "Varmeovn Rom 206",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "7",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "43",
+    "name": "Varmekabel bad Rom 207",
+    "week_profile_id": "0",
+    "temp_comfort_c": "22",
+    "temp_eco_c": "18",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "44",
+    "name": "Varmeovn Rom 207",
+    "week_profile_id": "0",
+    "temp_comfort_c": "17",
+    "temp_eco_c": "17",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "45",
+    "name": "Varmekabel bad Rom 208",
+    "week_profile_id": "0",
+    "temp_comfort_c": "21",
+    "temp_eco_c": "15",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "46",
+    "name": "Varmeovn Rom 208",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "47",
+    "name": "Varmekabel bad Rom 209",
+    "week_profile_id": "0",
+    "temp_comfort_c": "13",
+    "temp_eco_c": "16",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "48",
+    "name": "Varmeovn Rom 209",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "7",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "49",
+    "name": "Varmekabel bad Rom 210",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "50",
+    "name": "Varmeovn Rom 210",
+    "week_profile_id": "0",
+    "temp_comfort_c": "18",
+    "temp_eco_c": "18",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "51",
+    "name": "Varmekabel bad Rom 211",
+    "week_profile_id": "0",
+    "temp_comfort_c": "7",
+    "temp_eco_c": "26",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "52",
+    "name": "Varmeovn Rom 211",
+    "week_profile_id": "0",
+    "temp_comfort_c": "21",
+    "temp_eco_c": "8",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "53",
+    "name": "Varmekabel bad Rom 212",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "28",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "54",
+    "name": "Varmeovn Rom 212",
+    "week_profile_id": "0",
+    "temp_comfort_c": "18",
+    "temp_eco_c": "18",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "55",
+    "name": "Varmekabel bad Rom 214",
+    "week_profile_id": "0",
+    "temp_comfort_c": "15",
+    "temp_eco_c": "15",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "56",
+    "name": "Varmeovn Rom 214",
+    "week_profile_id": "0",
+    "temp_comfort_c": "18",
+    "temp_eco_c": "18",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "57",
+    "name": "Varmekabel bad Rom 216",
+    "week_profile_id": "0",
+    "temp_comfort_c": "26",
+    "temp_eco_c": "26",
+    "override_allowed": "0",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "58",
+    "name": "Varmeovn Rom 216",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "59",
+    "name": "Varmekabel sportsbar",
+    "week_profile_id": "0",
+    "temp_comfort_c": "7",
+    "temp_eco_c": "7",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "60",
+    "name": "Varmekabel resepsjon",
+    "week_profile_id": "0",
+    "temp_comfort_c": "7",
+    "temp_eco_c": "7",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "61",
+    "name": "Varmeovner resturang",
+    "week_profile_id": "0",
+    "temp_comfort_c": "7",
+    "temp_eco_c": "7",
+    "override_allowed": "0",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "62",
+    "name": "Varmekabel bad Rom 301",
+    "week_profile_id": "0",
+    "temp_comfort_c": "13",
+    "temp_eco_c": "21",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "63",
+    "name": "Varmeovn Rom 301",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "12",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "64",
+    "name": "Varmekabel bad Rom 303",
+    "week_profile_id": "0",
+    "temp_comfort_c": "24",
+    "temp_eco_c": "14",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "65",
+    "name": "Varmeovn Rom 303",
+    "week_profile_id": "0",
+    "temp_comfort_c": "18",
+    "temp_eco_c": "15",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "66",
+    "name": "Varmekabel bad Rom 305",
+    "week_profile_id": "0",
+    "temp_comfort_c": "22",
+    "temp_eco_c": "20",
+    "override_allowed": "0",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "67",
+    "name": "Varmeovn Rom 305",
+    "week_profile_id": "0",
+    "temp_comfort_c": "7",
+    "temp_eco_c": "7",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "68",
+    "name": "Varmekabel bad Rom 307",
+    "week_profile_id": "0",
+    "temp_comfort_c": "18",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "69",
+    "name": "Varmeovn Rom 307",
+    "week_profile_id": "0",
+    "temp_comfort_c": "21",
+    "temp_eco_c": "18",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "70",
+    "name": "Varmekabel bad Rom 309",
+    "week_profile_id": "0",
+    "temp_comfort_c": "38",
+    "temp_eco_c": "40",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "71",
+    "name": "Varmeovn Rom 309",
+    "week_profile_id": "0",
+    "temp_comfort_c": "20",
+    "temp_eco_c": "18",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "72",
+    "name": "Varmekabel bad Rom 311",
+    "week_profile_id": "0",
+    "temp_comfort_c": "16",
+    "temp_eco_c": "16",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "73",
+    "name": "Varmeovn Rom 311",
+    "week_profile_id": "0",
+    "temp_comfort_c": "16",
+    "temp_eco_c": "16",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "74",
+    "name": "Varmekabel bad Rom 312",
+    "week_profile_id": "0",
+    "temp_comfort_c": "15",
+    "temp_eco_c": "15",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "75",
+    "name": "Varmeovn Rom 312",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "76",
+    "name": "Varmekabel bad Rom 314",
+    "week_profile_id": "0",
+    "temp_comfort_c": "29",
+    "temp_eco_c": "10",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "77",
+    "name": "Varmeovner Rom 314",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "78",
+    "name": "Varmeovner konferanserom",
+    "week_profile_id": "0",
+    "temp_comfort_c": "7",
+    "temp_eco_c": "7",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "79",
+    "name": "Varmeovner festsal",
+    "week_profile_id": "0",
+    "temp_comfort_c": "21",
+    "temp_eco_c": "7",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "80",
+    "name": "Varmeovn kontor 2.etg",
+    "week_profile_id": "0",
+    "temp_comfort_c": "19",
+    "temp_eco_c": "19",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "81",
+    "name": "Varmeovn kontor 3.etg",
+    "week_profile_id": "0",
+    "temp_comfort_c": "17",
+    "temp_eco_c": "17",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  },
+  {
+    "zone_id": "82",
+    "name": "Varmekabel bad Rom 108",
+    "week_profile_id": "0",
+    "temp_comfort_c": "22",
+    "temp_eco_c": "15",
+    "override_allowed": "1",
+    "deprecated_override_id": "-1"
+  }
+]
