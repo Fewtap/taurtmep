@@ -7,3 +7,9 @@ export interface IZone {
     override_allowed: string
     deprecated_override_id: string
   }
+
+  export interface IRoom{
+    room: string
+    varmekabel: IZone
+    varmeovn: IZone
+  }

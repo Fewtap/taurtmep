@@ -4,7 +4,7 @@ import { useState } from "react";
 import { useSpring, animated } from "@react-spring/web";
 
 
-export function Zone(props: { zone: IZone, isSelected: boolean, onSelect: () => void }){
+export function Zone(props: { room: string,varmekabel: IZone, varmeovn: IZone ,isSelected: boolean, onSelect: () => void }){
 
     
     const spring = useSpring({
@@ -22,9 +22,10 @@ export function Zone(props: { zone: IZone, isSelected: boolean, onSelect: () => 
             props.onSelect();
 
         }}>
-            <h5>{props.zone.name}</h5>
+            <h5>Rom: {props.room}</h5>
             
-            <p>Current Temperature: {props.zone.temp_comfort_c}</p>
+            <p>Varmekabel: {props.varmekabel.temp_comfort_c.toString()}</p>
+            <p>Varmeovn: {props.varmeovn.temp_comfort_c.toString()}</p>
         </animated.div>
     )
 }

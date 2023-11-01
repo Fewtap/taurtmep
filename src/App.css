@@ -1,116 +1,127 @@
-.gridcontainer{
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.zoneGrid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
   
-
+  gap: 10px;
+  background-color: transparent;
+  
+  background: #202D1E;
+  min-width: 40vw;
+  max-width: 50vw;
+  height: 80vh;
+  /*center the grid*/
+  justify-items: center;
+  overflow-y: scroll;
+  padding: 20px;
 }
 
-.zoneContainer{
-  grid-template-columns: 1fr 1fr 1fr;
-  display: grid;
-  column-gap: 10px;
-  row-gap: 10px;
-  max-height: 50vh;
-  overflow: scroll;
-  padding: 20px;
-  overflow-x: hidden;
+#roomsheader{
+  /*Take up the whole first row*/
+  
+  text-align: center;
+  
+  
 }
 
 .controlsdiv{
   display: flex;
-  justify-content: space-evenly;
-  align-items: baseline;
-  background-color: #5a5a5a;
+  border: 1px solid black;
+
+}
+
+.roomInput{
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  border: 0px;
+  margin: 10px;
+  max-width: 50vw;
+  min-width: 40vw;
+  min-height: 80vh;
+  max-height: 50vh;
+  background-color: #202D1E;
+  color: white;
+}
+
+
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: 100vh;
+  background: #242424;
+}
+
+.control-panel{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 30px;
+  background: #202D1E;
   padding: 20px;
   border-radius: 20px;
-  max-width: 90vw;
-  border: 1px solid #383838;
-  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+
 }
 
-.hidden{
-  display: none;
+.control-panel > *{
+  padding: 10px;
 }
-.temperature{
+
+.allroomscontainer{
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-  padding: 10px;
-  margin: 10px;
-  border-radius: 10px;
-  background-color: #f5f5f5;
+  gap: 10px;
+  background-color: transparent;
 }
 
-button{
-  
-  border-radius: 10px;
-  padding: 10px;
-  background-color: #808080;
-  cursor: pointer;
-  transition: 0.1s ease-in-out;
- 
-}
-
-div{
-  margin: 10px;
-  
-}
-
-button:hover{
-  transition: 0.1s ease-in-out;
-  background-color: #e0e0e0;
-  transform: scale(1.1);
-  color: #383838;
-}
-
-textarea{
-  margin-inline: auto;
-  background-color: #808080;
-  max-height: 200px;
-  color: antiquewhite;
-  text-decoration-color: antiquewhite;
-  width: 10vw !important;
-  /*disable resize*/
-  resize: none;
-  border-radius: 10px;
-}
-
-textarea::placeholder{
-  color: antiquewhite;
-}
-
-#roominputdiv{
+.bottomarea{
+  margin: 20px;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
-  
+  gap: 20px;
+}
+
+.temperatureContainer{
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  gap: 10px;
+  text-align: center;
+}
+
+.temperatureInput{
+  background-color: white;
   padding: 10px;
-  margin: 10px;
   border-radius: 10px;
-  background-color: #808080;
-  max-width: 90vw;
-  margin-inline: auto;
+  border: 0px;
 }
-#output{
-  width: 50%;
-  height: 30v
+
+.actionbutton{
+  background-color: #3A4B37;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  border: 0px;
+  transition: 0.2s ease-in-out;
 }
+
+.actionbutton:hover{
+  background-color: #2E3A29;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  border: 0px;
+  transition: 0.2s ease-in-out;
+}
+
+
+
+
 label{
-  margin: 10px;
-  color: antiquewhite;
+  color: white;
+  background-color: transparent;
 }
-
-
-
-
-
-
-
-
-
-
-
