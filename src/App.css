@@ -1,11 +1,19 @@
+
+/*color variables*/
+:root{
+  --bg-color: #34435E;
+  --accent-color: #87919E;
+  --hover-color: #CDE6F5;
+}
+
 .zoneGrid{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  
+  border-radius: 10px;
   gap: 10px;
   background-color: transparent;
   
-  background: #202D1E;
+  background: var(--bg-color);
   min-width: 40vw;
   max-width: 50vw;
   height: 80vh;
@@ -19,6 +27,8 @@
   /*Take up the whole first row*/
   
   text-align: center;
+  color: white;
+  margin: 20px 0;
   
   
 }
@@ -39,7 +49,11 @@
   min-width: 40vw;
   min-height: 80vh;
   max-height: 50vh;
-  background-color: #202D1E;
+  background-color: var(--bg-color);
+  color: white;
+}
+
+.roomInput::placeholder{
   color: white;
 }
 
@@ -51,7 +65,7 @@
   justify-content: start;
   align-items: center;
   height: 100vh;
-  background: #242424;
+  background: #707078;
 }
 
 .control-panel{
@@ -60,7 +74,7 @@
   justify-content: space-around;
   align-items: center;
   gap: 30px;
-  background: #202D1E;
+  background: var(--bg-color);
   padding: 20px;
   border-radius: 20px;
 
@@ -77,11 +91,12 @@
 }
 
 .bottomarea{
-  margin: 20px;
+  
   display: flex;
   justify-content: space-around;
   align-items: center;
   gap: 20px;
+  max-height: 80vh;
 }
 
 .temperatureContainer{
@@ -101,7 +116,7 @@
 }
 
 .actionbutton{
-  background-color: #3A4B37;
+  background-color: var(--accent-color);
   color: white;
   padding: 10px;
   border-radius: 10px;
@@ -110,12 +125,14 @@
 }
 
 .actionbutton:hover{
-  background-color: #2E3A29;
+  cursor: pointer;
+  background-color: var(--hover-color);
   color: white;
   padding: 10px;
   border-radius: 10px;
   border: 0px;
   transition: 0.2s ease-in-out;
+  transform: scale(1.05);
 }
 
 

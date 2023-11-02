@@ -220,13 +220,14 @@ export default function App() {
             }} type='checkbox' />
         </div>
       </div>
+      <h1 id='roomsheader'>Rooms</h1>
       <div className="bottomarea">
-        <textarea className='roomInput' placeholder='Log' onChange={(e) => {
+        <textarea className='roomInput' placeholder='Input Hotsoft text here: ' onChange={(e) => {
           
           CollectRooms(e)
           }} />
           <div className="gridgroup">
-            <h1 id='roomsheader'>Rooms</h1>
+            
                     <div className='zoneGrid'>
             
             {rooms.map((room) => {

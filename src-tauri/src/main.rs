@@ -186,3 +186,18 @@ fn convert_string_to_zone_array(zones_string: &String) -> Vec<Zone> {
     
     return zones;
 }
+
+
+fn socket_listener(ip: &str, port: &str, serial: &str) {
+    let mut socket = TcpStream::connect(format!("{}:{}", ip, port))
+        .map_err(|e| format!("Error connecting to socket: {}", e))
+        .unwrap();
+
+    let current_time: String = chrono::Local::now().format("%Y%m%d%H%M%S").to_string();
+    let message: String = format!("HELLO 1.1 {} {}", serial, current_time);
+
+    let mut buffer = [0; 1024];
+    loop {
+        socket.read(&mut buffer).unwrap();
+    }
+}
